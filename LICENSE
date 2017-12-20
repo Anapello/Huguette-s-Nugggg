@@ -371,3 +371,96 @@ Exhibit B - "Incompatible With Secondary Licenses" Notice
 
   This Source Code Form is "Incompatible With Secondary Licenses", as
   defined by the Mozilla Public License, v. 2.0.
+{"bug_type":"179","os_version":"iPhone OS 10.3.2 (14F89)"}
+{
+  "scheduled" : true,
+  "machine_config" : "iPod7,1",
+  "log_version" : 2,
+  "region_format" : "US",
+  "os_version" : "iPhone OS 10.3.2 (14F89)",
+  "language" : "fr-CA",
+  "sessions_data" : [
+{
+  "app_arch" : "arm-64bit",
+  "app_build_version" : "84268146",
+  "app_version" : "153.0",
+  "app_adamid" : 284882215,
+  "app_sessionreporter_key" : "A59060E8-916B-4B99-A58E-42C6AC35B976",
+  "app_storefront" : 143455,
+  "app_bundleid" : "com.facebook.Facebook",
+  "app_events" : [
+    {
+      "date" : "2017-12-20T03:59:21-0500",
+      "state" : "foregroundRunning",
+      "type" : "app_session",
+      "duration" : 42
+    }
+  ],
+  "app_is_beta" : false,
+  "slice_uuid" : "277914F4-63F4-7E78-D536-D4A373DAFE24",
+  "app_cohort" : "7|date=1275426000000&sf=143455"
+},
+{
+  "app_arch" : "arm-64bit",
+  "app_build_version" : "5.34.3",
+  "app_version" : "5.34.3",
+  "app_adamid" : 466965151,
+  "app_sessionreporter_key" : "F8DFDF02-E086-4FED-87E9-D724D7A267A7",
+  "app_storefront" : 143455,
+  "app_bundleid" : "com.ea.sims3deluxe.ipad.inc",
+  "app_events" : [
+    {
+      "date" : "2017-12-20T04:00:09-0500",
+      "state" : "foregroundRunning",
+      "type" : "app_session",
+      "duration" : 242
+    },
+    {
+      "date" : "2017-12-20T04:07:19-0500",
+      "state" : "foregroundRunning",
+      "type" : "app_session",
+      "duration" : 30
+    },
+    {
+      "date" : "2017-12-20T04:11:40-0500",
+      "state" : "foregroundRunning",
+      "type" : "app_session",
+      "duration" : 97
+    }
+  ],
+  "app_is_beta" : false,
+  "slice_uuid" : "F029EDF4-DF75-34D9-AD47-32E3F5D75988",
+  "app_cohort" : "7|date=1324071000000&sf=143455"
+},
+{
+  "app_arch" : "arm-64bit",
+  "app_build_version" : "83603364",
+  "app_version" : "26.0",
+  "app_adamid" : 389801252,
+  "app_sessionreporter_key" : "AFDB1214-4CD2-4B1B-AF40-F0F26130BF32",
+  "app_storefront" : 143455,
+  "app_bundleid" : "com.burbn.instagram",
+  "app_events" : [
+    {
+      "date" : "2017-12-20T03:25:52-0500",
+      "state" : "foregroundRunning",
+      "type" : "app_session",
+      "duration" : 2
+    },
+    {
+      "date" : "2017-12-20T03:27:43-0500",
+      "state" : "foregroundRunning",
+      "type" : "app_session",
+      "duration" : 100
+    },
+    {
+      "type" : "app_uninstall",
+      "date" : "2017-12-20T03:29:33-0500"
+    }
+  ],
+  "app_is_beta" : false,
+  "slice_uuid" : "11926788-3237-0008-0F80-E77C56AE425E",
+  "app_cohort" : "7|date=1345213800000&sf=143455"
+}
+  ],
+  "log_timestamp" : "2017-12-20T04:14:03-0500"
